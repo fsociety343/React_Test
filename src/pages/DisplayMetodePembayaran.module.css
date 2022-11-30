@@ -1,0 +1,232 @@
+.rectangleDiv {
+  position: absolute;
+  top: -7px;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-pink);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
+  width: 428px;
+  height: 137px;
+}
+.rectangleDiv1 {
+  position: absolute;
+  top: 548px;
+  left: 36px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-600);
+  width: 354px;
+  height: 82px;
+}
+.vectorIcon {
+  position: absolute;
+  top: 584.52px;
+  left: 343.83px;
+  width: 20.72px;
+  height: 13.95px;
+}
+.buttonBackIcon,
+.groupA {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 39px;
+  height: 39px;
+}
+.groupA {
+  cursor: pointer;
+  text-decoration: none;
+  top: 59px;
+  left: 18px;
+}
+.metodePembayaran {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.03em;
+  line-height: 25px;
+  display: inline-block;
+}
+.groupDiv,
+.groupDiv1 {
+  position: absolute;
+  top: 34px;
+  left: 17px;
+  width: 242px;
+  height: 25px;
+  font-size: var(--font-size-lg);
+}
+.groupDiv {
+  top: 53px;
+  left: 89px;
+  width: 283px;
+  height: 59px;
+  font-size: var(--font-size-2xl);
+}
+.rectangleA,
+.rectangleDiv2,
+.rectangleDiv3 {
+  position: absolute;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-600);
+  height: 82px;
+}
+.rectangleA {
+  cursor: pointer;
+  text-decoration: none;
+  top: 212px;
+  left: 34px;
+  width: 356px;
+}
+.rectangleDiv2,
+.rectangleDiv3 {
+  top: 325px;
+  left: 36px;
+  width: 354px;
+}
+.rectangleDiv3 {
+  top: 436px;
+}
+.cashOnDelivery,
+.vABNIMobile {
+  position: absolute;
+  top: 462px;
+  left: 147px;
+  display: inline-block;
+}
+.cashOnDelivery {
+  top: 576px;
+  left: 143px;
+}
+.ellipseIcon,
+.rectangleIcon {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  width: 70px;
+  height: 67px;
+}
+.rectangleIcon {
+  top: 8px;
+  left: 2px;
+  width: 58px;
+  height: 50px;
+  object-fit: cover;
+}
+.groupDiv2 {
+  position: absolute;
+  top: 221px;
+  left: 55px;
+  width: 62px;
+  height: 59px;
+}
+.rectangleDiv4,
+.rectangleDiv5 {
+  position: absolute;
+  top: 559px;
+  left: 53px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 63px;
+  height: 60px;
+}
+.rectangleDiv5 {
+  top: 0;
+  left: 0;
+}
+.pngwing1Icon {
+  position: absolute;
+  top: 14px;
+  left: 3px;
+  width: 58px;
+  height: 31px;
+  object-fit: cover;
+}
+.groupDiv3 {
+  position: absolute;
+  top: 336px;
+  left: 52px;
+  width: 63px;
+  height: 60px;
+}
+.bankBNILogoPNG1080pFi {
+  position: absolute;
+  top: 24px;
+  left: 11px;
+  width: 42px;
+  height: 15px;
+  object-fit: cover;
+}
+.groupDiv4 {
+  position: absolute;
+  top: 448px;
+  left: 54px;
+  width: 63px;
+  height: 60px;
+}
+.cODI,
+.cashOnDelivery1 {
+  position: absolute;
+  display: inline-block;
+}
+.cODI {
+  top: 0;
+  left: 13px;
+  font-weight: 700;
+}
+.cashOnDelivery1 {
+  top: 17px;
+  left: 0;
+  font-size: var(--font-size-xs);
+}
+.groupDiv5 {
+  position: absolute;
+  top: 573px;
+  left: 59px;
+  width: 51px;
+  height: 29px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-titillium-web);
+}
+.alfamartB,
+.indomaretB {
+  position: absolute;
+  top: 239px;
+  left: 159px;
+  display: inline-block;
+}
+.indomaretB {
+  top: 351px;
+}
+.vectorIcon1 {
+  position: absolute;
+  top: 244.57px;
+  left: 344.73px;
+  width: 14.23px;
+  height: 16.85px;
+}
+.vectorIcon2,
+.vectorIcon3 {
+  position: absolute;
+  top: 356.55px;
+  left: 341.76px;
+  width: 17.35px;
+  height: 16.89px;
+}
+.vectorIcon3 {
+  top: 468.54px;
+  left: 341.78px;
+  width: 17.4px;
+  height: 15.91px;
+}
+.displayMetodePembayaran {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

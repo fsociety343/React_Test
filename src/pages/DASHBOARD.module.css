@@ -1,0 +1,503 @@
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.groupIcon,
+.groupIcon1,
+.groupIcon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 291px;
+  height: 281px;
+}
+.groupIcon1,
+.groupIcon2 {
+  top: 322px;
+  left: 75px;
+}
+.groupIcon2 {
+  top: 794px;
+  left: 282px;
+}
+.uDBSHOPDiv {
+  position: absolute;
+  top: 0;
+  left: 45px;
+  font-weight: 800;
+  display: inline-block;
+  text-shadow: 0 10px 5px rgba(0, 0, 0, 0.25);
+}
+.groupDiv,
+.shopIcon {
+  position: absolute;
+  top: 7px;
+  left: 0;
+  width: 45px;
+  height: 58.08px;
+}
+.groupDiv {
+  top: 141px;
+  left: 83px;
+  width: 275px;
+  height: 68px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-gray-200);
+}
+.welcomeArif {
+  position: absolute;
+  top: 252px;
+  left: 120px;
+  font-size: var(--font-size-2xl);
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+}
+.lineIcon,
+.rectangleDiv {
+  position: absolute;
+  top: 220px;
+  left: 123px;
+  width: 183.01px;
+  height: 22px;
+}
+.rectangleDiv {
+  top: 322px;
+  left: 21px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-red-100);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
+  width: 383px;
+  height: 137px;
+}
+.ellipseIcon {
+  position: absolute;
+  top: 346px;
+  left: 40px;
+  width: 103px;
+  height: 100px;
+  object-fit: cover;
+}
+.rp50000Div,
+.saldoDiv,
+.scanMeDiv {
+  position: absolute;
+  display: inline-block;
+}
+.scanMeDiv {
+  top: 336px;
+  left: 299px;
+  font-size: var(--font-size-xl);
+}
+.rp50000Div,
+.saldoDiv {
+  top: 0;
+  left: 0;
+}
+.rp50000Div {
+  top: 26px;
+  left: 2px;
+  font-size: var(--font-size-base);
+  font-weight: 800;
+  color: #24ff00;
+}
+.groupDiv1 {
+  position: absolute;
+  top: 336px;
+  left: 158px;
+  width: 97px;
+  height: 49px;
+  font-size: var(--font-size-xl);
+}
+.goldDiv {
+  position: absolute;
+  top: 21px;
+  left: 2px;
+  font-weight: 800;
+  color: #faff00;
+  display: inline-block;
+}
+.groupDiv2,
+.rectangleDiv1 {
+  position: absolute;
+  top: 398px;
+  left: 158px;
+  width: 115px;
+  height: 44px;
+}
+.rectangleDiv1 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 62px;
+  height: 60px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 90.83%;
+  width: 91.13%;
+  top: 4.58%;
+  right: 4.44%;
+  bottom: 4.58%;
+  left: 4.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv3 {
+  position: absolute;
+  top: 371px;
+  left: 313px;
+  width: 62px;
+  height: 60px;
+}
+.lineDiv,
+.lineDiv1 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.lineDiv {
+  top: 344.5px;
+  left: 287.5px;
+  border-right: 1px solid var(--color-gray-300);
+  width: 1px;
+  height: 89.09px;
+}
+.lineDiv1 {
+  top: 392.55px;
+  left: 158.45px;
+  border-top: 1px solid var(--color-gray-300);
+  width: 89.09px;
+  height: 1px;
+}
+.rectangleDiv2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-red-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 132px;
+  height: 129px;
+}
+.orderFoodDiv {
+  position: absolute;
+  top: 94px;
+  left: 24px;
+  display: inline-block;
+}
+.order1Icon {
+  position: absolute;
+  top: 21px;
+  left: 37px;
+  width: 65px;
+  height: 77px;
+  object-fit: cover;
+}
+.groupDiv4 {
+  position: absolute;
+  top: 471px;
+  left: 57px;
+  width: 132px;
+  height: 129px;
+}
+.orderBarangP {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.bekasP {
+  margin: 0;
+}
+.orderBarangBekasContainer {
+  line-break: anywhere;
+  width: 100%;
+}
+.orderBarangBekas {
+  position: absolute;
+  top: 80px;
+  left: 15px;
+  display: flex;
+  align-items: center;
+  width: 106px;
+  height: 46px;
+}
+.mobileApplication1Icon {
+  position: absolute;
+  top: 17px;
+  left: 34px;
+  width: 69px;
+  height: 68px;
+  object-fit: cover;
+}
+.groupA {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 611px;
+  left: 60px;
+  width: 132px;
+  height: 129px;
+  opacity: 0;
+  text-align: center;
+  color: inherit;
+}
+.groupA.animate {
+  animation: 1s ease 0s 1 normal forwards fade-in;
+}
+.parkingOnlineDiv {
+  position: absolute;
+  top: 93px;
+  left: 15px;
+  display: inline-block;
+}
+.parking1Icon {
+  position: absolute;
+  top: 25px;
+  left: 29px;
+  width: 73px;
+  height: 74px;
+  object-fit: cover;
+}
+.groupDiv5,
+.rectangleDiv5 {
+  position: absolute;
+  top: 611px;
+  left: 237px;
+  width: 132px;
+  height: 129px;
+}
+.rectangleDiv5 {
+  top: 852px;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-pink);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
+  width: 428px;
+  height: 137px;
+}
+.homeIcon {
+  position: absolute;
+  top: 0;
+  left: 9px;
+  width: 32px;
+  height: 33px;
+}
+.berandaDiv {
+  position: absolute;
+  top: 32px;
+  left: 0;
+  display: inline-block;
+}
+.groupDiv6 {
+  position: absolute;
+  top: 863px;
+  left: 24px;
+  width: 52px;
+  height: 50px;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.fileDockSearchIcon {
+  position: absolute;
+  top: 0;
+  left: 6px;
+  width: 31px;
+  height: 28px;
+}
+.riwayatDiv {
+  position: absolute;
+  top: 29px;
+  left: 0;
+  display: inline-block;
+}
+.groupDiv7 {
+  position: absolute;
+  top: 866px;
+  left: 101px;
+  width: 48px;
+  height: 47px;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.bagIcon,
+.groupA1 {
+  position: absolute;
+  top: 0;
+  left: 14px;
+  width: 31px;
+  height: 30px;
+}
+.groupA1 {
+  cursor: pointer;
+  text-decoration: none;
+  top: 863px;
+  left: 282px;
+  width: 62px;
+  height: 50px;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.groupDiv8,
+.userBoxIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 29px;
+  height: 29px;
+}
+.groupDiv8 {
+  top: 863px;
+  left: 367px;
+  width: 30px;
+  height: 50px;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.ellipseIcon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90px;
+  height: 90px;
+}
+.rectangleDiv6,
+.rectangleDiv7,
+.rectangleDiv8,
+.rectangleDiv9 {
+  position: absolute;
+  top: 2.5px;
+  left: 2.5px;
+  border-radius: var(--br-2xs);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 8px;
+  height: 8px;
+}
+.rectangleDiv7,
+.rectangleDiv8,
+.rectangleDiv9 {
+  top: 13.5px;
+}
+.rectangleDiv8,
+.rectangleDiv9 {
+  top: 2.5px;
+  left: 13.5px;
+}
+.rectangleDiv9 {
+  top: 13.5px;
+}
+.widgetLightDiv {
+  position: absolute;
+  top: 26px;
+  left: 34px;
+  width: 24px;
+  height: 23px;
+}
+.bayarDiv {
+  position: absolute;
+  top: 53px;
+  left: 30px;
+  display: inline-block;
+}
+.groupDiv9 {
+  position: absolute;
+  top: 831px;
+  left: 169px;
+  width: 90px;
+  height: 90px;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.orderClothDiv {
+  position: absolute;
+  top: 96px;
+  left: 26px;
+  display: inline-block;
+}
+.onlineShopping1Icon {
+  position: absolute;
+  top: 19px;
+  left: 33px;
+  width: 68px;
+  height: 76px;
+  object-fit: cover;
+}
+.ellipseIcon2,
+.groupDiv10 {
+  position: absolute;
+  top: 472px;
+  left: 233px;
+  width: 132px;
+  height: 129px;
+}
+.ellipseIcon2 {
+  top: 0;
+  left: 0;
+  width: 99px;
+  height: 97px;
+}
+.iconCommentCircleChatMess {
+  position: absolute;
+  height: 65.38%;
+  width: 73.15%;
+  top: 14.59%;
+  right: 11.42%;
+  bottom: 20.04%;
+  left: 15.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ellipseIcon3 {
+  position: absolute;
+  top: 8px;
+  left: 0;
+  width: 28px;
+  height: 29px;
+}
+.b {
+  position: absolute;
+  top: 0;
+  left: 4px;
+  display: inline-block;
+}
+.groupA2,
+.groupDiv11 {
+  position: absolute;
+  top: 64px;
+  left: 59px;
+  width: 28px;
+  height: 45px;
+}
+.groupA2 {
+  cursor: pointer;
+  text-decoration: none;
+  top: 751px;
+  left: 322px;
+  width: 99px;
+  height: 109px;
+  font-size: var(--font-size-3xl);
+  color: red;
+}
+.groupIcon3 {
+  position: absolute;
+  top: 9px;
+  left: 346px;
+  width: 76px;
+  height: 75px;
+}
+.dASHBOARDDiv {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

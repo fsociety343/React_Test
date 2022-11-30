@@ -1,0 +1,147 @@
+.groupIcon,
+.groupIcon1,
+.groupIcon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 291px;
+  height: 281px;
+}
+.groupIcon1,
+.groupIcon2 {
+  top: 322px;
+  left: 75px;
+}
+.groupIcon2 {
+  top: 794px;
+  left: 282px;
+}
+.rectangleButton,
+.signUpDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.signUpDiv {
+  top: 13px;
+  left: 59px;
+  font-weight: 300;
+  display: inline-block;
+}
+.groupDiv {
+  position: absolute;
+  top: 766px;
+  left: 122px;
+  width: 193px;
+  height: 56px;
+  cursor: pointer;
+}
+.lastNameDiv,
+.nameDiv {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  font-weight: 500;
+  display: inline-block;
+}
+.lastNameDiv {
+  top: 97px;
+  left: 0;
+}
+.lineDiv,
+.lineDiv1 {
+  position: absolute;
+  top: 67.5px;
+  left: 19.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 303px;
+  height: 1px;
+}
+.lineDiv1 {
+  top: 169.5px;
+}
+.yourLastName,
+.yourNameI {
+  position: absolute;
+  top: 40px;
+  left: 28px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  font-weight: 300;
+  color: var(--color-gray-500);
+}
+.yourLastName {
+  top: 140px;
+  left: 19px;
+}
+.groupDiv2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 322px;
+  height: 170px;
+}
+.groupDiv1,
+.groupTextField {
+  position: absolute;
+  top: 193px;
+  left: 4px;
+}
+.groupDiv1 {
+  top: 343px;
+  left: 44px;
+  width: 322px;
+  height: 363px;
+}
+.uDBSHOPDiv {
+  position: absolute;
+  top: 0;
+  left: 45px;
+  font-weight: 800;
+  display: inline-block;
+  text-shadow: 0 10px 5px rgba(0, 0, 0, 0.25);
+}
+.shopIcon {
+  position: absolute;
+  top: 7px;
+  left: 0;
+  width: 45px;
+  height: 58.08px;
+}
+.groupDiv3,
+.signUpAccount {
+  position: absolute;
+  text-align: left;
+}
+.groupDiv3 {
+  top: 141px;
+  left: 83px;
+  width: 275px;
+  height: 68px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-gray-200);
+}
+.signUpAccount {
+  top: 252px;
+  left: 110px;
+  font-size: var(--font-size-2xl);
+  font-weight: 500;
+  display: inline-block;
+}
+.lineDiv2 {
+  position: absolute;
+  top: 220px;
+  left: 123px;
+}
+.sIGNUPDiv {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

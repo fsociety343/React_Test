@@ -1,0 +1,145 @@
+.groupIcon,
+.groupIcon1,
+.groupIcon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 291px;
+  height: 281px;
+}
+.groupIcon1,
+.groupIcon2 {
+  top: 322px;
+  left: 75px;
+}
+.groupIcon2 {
+  top: 778px;
+  left: 262px;
+}
+.groupButton,
+.groupButton1 {
+  position: absolute;
+  top: 620px;
+  left: 118px;
+  cursor: pointer;
+}
+.groupButton1 {
+  top: 708px;
+}
+.emailDiv,
+.passwordDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.passwordDiv {
+  top: 97px;
+}
+.lineDiv,
+.lineDiv1 {
+  position: absolute;
+  top: 67.5px;
+  left: 15.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 303px;
+  height: 1px;
+}
+.lineDiv1 {
+  top: 169.5px;
+}
+.forgotPasswordI,
+.yourEmailId,
+.yourPasswordI {
+  position: absolute;
+  top: 40px;
+  left: 16px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  font-weight: 300;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.forgotPasswordI,
+.yourPasswordI {
+  top: 140px;
+}
+.forgotPasswordI {
+  top: 175px;
+  left: 210px;
+  font-size: var(--font-size-sm);
+}
+.groupDiv {
+  position: absolute;
+  top: 366px;
+  left: 48px;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 318px;
+  height: 193px;
+  text-align: center;
+}
+.uDBSHOPDiv {
+  position: absolute;
+  top: 0;
+  left: 45px;
+  font-weight: 800;
+  display: inline-block;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.groupDiv1,
+.shopIcon {
+  position: absolute;
+  top: 7px;
+  left: 0;
+  width: 45px;
+  height: 47px;
+}
+.groupDiv1 {
+  top: 141px;
+  left: 83px;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 275px;
+  height: 68px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-gray-200);
+}
+.loginToAccount {
+  position: absolute;
+  top: 252px;
+  left: 109px;
+  font-size: var(--font-size-2xl);
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.lineTextField {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 225.5px;
+  left: 132.5px;
+  transform: rotate(0.35deg);
+  transform-origin: 0 0;
+}
+.viewAltFillIcon {
+  position: absolute;
+  top: 511px;
+  left: 342px;
+  width: 24px;
+  height: 24px;
+}
+.lOGINDiv {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-500);
+  font-family: var(--font-poppins);
+}

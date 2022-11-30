@@ -1,0 +1,301 @@
+.kondisiBekasP {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.etalaseSECONDP {
+  margin: 0;
+}
+.kondisiBekasBeratSatuan5 {
+  position: absolute;
+  top: 25px;
+  left: 0;
+  white-space: pre-wrap;
+  display: inline-block;
+}
+.detailB,
+.macBookPro2017ReadyYaGan {
+  position: absolute;
+  top: 0;
+  left: 15px;
+  display: inline-block;
+}
+.macBookPro2017ReadyYaGan {
+  top: 135px;
+}
+.groupDiv {
+  position: absolute;
+  top: 738px;
+  left: 0;
+  width: 289px;
+  height: 480px;
+  font-size: var(--font-size-base);
+}
+.rectangleDiv {
+  top: 587px;
+  background-color: var(--color-white);
+  height: 145px;
+}
+.rectangleDiv,
+.rectangleDiv1,
+.rectangleIcon {
+  position: absolute;
+  left: 0;
+  width: 428px;
+}
+.rectangleDiv1 {
+  top: 0;
+  background-color: var(--color-gray-100);
+  height: 393px;
+}
+.rectangleIcon {
+  top: 12px;
+  height: 389px;
+  object-fit: cover;
+}
+.groupDiv1 {
+  position: relative;
+  width: 428px;
+  height: 393px;
+  flex-shrink: 0;
+}
+.rectangleIcon1 {
+  position: absolute;
+  top: 12px;
+  left: -4px;
+  width: 428px;
+  height: 389px;
+  object-fit: cover;
+}
+.frameDiv {
+  position: absolute;
+  top: 194px;
+  left: calc(50% - 214px);
+  overflow-x: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 0;
+}
+.groupIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 291px;
+  height: 281px;
+}
+.iconOption {
+  position: relative;
+  width: 27.89px;
+  height: 26.35px;
+  flex-shrink: 0;
+}
+.filterDiv {
+  position: relative;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+.frameDiv2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow-y: auto;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-md);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.groupDiv3 {
+  position: relative;
+  width: 117.89px;
+  height: 33px;
+  flex-shrink: 0;
+}
+.frameDiv3,
+.rectangleDiv3 {
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.frameDiv3 {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-lg);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangleDiv3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 145px;
+  height: 34px;
+}
+.bebasOngkirDiv {
+  position: absolute;
+  top: 4px;
+  left: 8.89px;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+.groupDiv4 {
+  position: relative;
+  width: 145px;
+  height: 34px;
+  flex-shrink: 0;
+}
+.frameDiv1 {
+  position: absolute;
+  top: 128px;
+  left: 15px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow-x: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.rectangleDiv4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-pink);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
+  border: 0.1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 428px;
+  height: 71px;
+}
+.mauCariBarangBekasApa {
+  position: absolute;
+  top: 22px;
+  left: 104px;
+  display: inline-block;
+}
+.iconSearchOutline {
+  position: absolute;
+  height: 68.53%;
+  width: 10.98%;
+  top: 15.49%;
+  right: 81.78%;
+  bottom: 15.98%;
+  left: 7.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv5 {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  width: 428px;
+  height: 71px;
+  color: var(--color-gray-400);
+}
+.rectangleDiv5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-red-100);
+  width: 354px;
+  height: 56px;
+}
+.tambahkanKeranjang {
+  position: absolute;
+  top: 13px;
+  left: 57px;
+  display: inline-block;
+}
+.groupA {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 855px;
+  left: 38px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 354px;
+  height: 56px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.macbookPro2017 {
+  top: 0;
+  left: 0;
+}
+.macbookPro2017,
+.rp10000000B,
+.terjual5Div {
+  position: absolute;
+  display: inline-block;
+}
+.rp10000000B {
+  top: 45px;
+  left: 0;
+  font-size: var(--font-size-2xl);
+  color: var(--color-red-100);
+}
+.terjual5Div {
+  top: 0;
+  left: 17px;
+  font-weight: 300;
+}
+.iconStar {
+  position: absolute;
+  height: 55.56%;
+  width: 11.88%;
+  top: 22.22%;
+  right: 88.12%;
+  bottom: 22.22%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv7 {
+  position: absolute;
+  top: 84px;
+  left: 5px;
+  width: 101px;
+  height: 18px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-poppins);
+}
+.lineDiv {
+  position: absolute;
+  top: 132.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 399px;
+  height: 1px;
+}
+.groupDiv6 {
+  position: absolute;
+  top: 596px;
+  left: 15px;
+  width: 398px;
+  height: 133px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-inter);
+}
+.pILIHITEMDiv {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

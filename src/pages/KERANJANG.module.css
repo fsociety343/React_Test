@@ -1,0 +1,382 @@
+.groupIcon {
+  position: absolute;
+  top: 322px;
+  left: 75px;
+  width: 291px;
+  height: 281px;
+}
+.lineIcon,
+.rectangleDiv {
+  position: absolute;
+  top: 220px;
+  left: 123px;
+  width: 183.01px;
+  height: 22px;
+}
+.rectangleDiv {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-red-100);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
+  width: 383px;
+  height: 137px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 21px;
+  left: 47px;
+  border-radius: var(--br-lg);
+  width: 108px;
+  height: 108px;
+  object-fit: cover;
+}
+.hargaRp1000000000,
+.ram8GB256GB {
+  position: absolute;
+  left: 1px;
+  display: inline-block;
+}
+.hargaRp1000000000 {
+  top: 45px;
+  font-weight: 500;
+}
+.ram8GB256GB {
+  top: 26px;
+  font-size: var(--font-size-sm);
+}
+.groupDiv1,
+.rectangleDiv1 {
+  position: absolute;
+  top: 21px;
+  left: 168px;
+  width: 185px;
+  height: 68px;
+}
+.rectangleDiv1 {
+  top: 58px;
+  left: 13px;
+  background-color: var(--color-gray-100);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 23px;
+  height: 22px;
+}
+.iconTrash {
+  position: absolute;
+  height: 14.28%;
+  width: 5.22%;
+  top: 73.72%;
+  right: 8.09%;
+  bottom: 12%;
+  left: 86.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon1 {
+  position: absolute;
+  top: 103px;
+  left: 195px;
+  width: 123px;
+  height: 19.56px;
+}
+.groupDiv,
+.rectangleIcon1 {
+  position: absolute;
+  top: 643px;
+  left: 19px;
+  width: 383px;
+  height: 137px;
+}
+.rectangleIcon1 {
+  top: 19px;
+  left: 46px;
+  border-radius: var(--br-lg);
+  width: 108px;
+  height: 108px;
+  object-fit: cover;
+}
+.helmKYTFullFaceWhite {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+}
+.groupDiv3,
+.rectangleDiv3 {
+  position: absolute;
+  top: 19px;
+  left: 166px;
+  width: 202px;
+  height: 68px;
+}
+.rectangleDiv3 {
+  top: 58px;
+  left: 12px;
+  background-color: var(--color-gray-100);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 23px;
+  height: 22px;
+}
+.iconTrash1 {
+  position: absolute;
+  height: 14.28%;
+  width: 5.22%;
+  top: 72.26%;
+  right: 8.36%;
+  bottom: 13.46%;
+  left: 86.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon2 {
+  position: absolute;
+  top: 101px;
+  left: 194px;
+  width: 123px;
+  height: 19.56px;
+}
+.groupDiv2,
+.rectangleIcon2 {
+  position: absolute;
+  top: 476px;
+  left: 20px;
+  width: 383px;
+  height: 137px;
+}
+.rectangleIcon2 {
+  top: 17px;
+  left: 46px;
+  border-radius: var(--br-lg);
+  width: 108px;
+  height: 108px;
+  object-fit: cover;
+}
+.groupDiv5,
+.rectangleDiv5 {
+  position: absolute;
+  top: 14px;
+  left: 166px;
+  width: 183px;
+  height: 68px;
+}
+.rectangleDiv5 {
+  top: 56px;
+  left: 12px;
+  background-color: var(--color-gray-100);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 23px;
+  height: 22px;
+}
+.iconTrash2 {
+  position: absolute;
+  height: 14.28%;
+  width: 5.22%;
+  top: 73.72%;
+  right: 8.36%;
+  bottom: 12%;
+  left: 86.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv4,
+.rectangleIcon3 {
+  position: absolute;
+  top: 306px;
+  left: 20px;
+  width: 383px;
+  height: 137px;
+}
+.rectangleIcon3 {
+  top: 17.5px;
+  left: 44.5px;
+  border-radius: var(--br-lg);
+  width: 111px;
+  height: 111px;
+  object-fit: cover;
+}
+.groupDiv7,
+.iconTrash3 {
+  position: absolute;
+  top: 21px;
+  left: 166px;
+  width: 201px;
+  height: 68px;
+}
+.iconTrash3 {
+  height: 14.28%;
+  width: 5.22%;
+  top: 77.37%;
+  right: 8.36%;
+  bottom: 8.35%;
+  left: 86.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon4 {
+  position: absolute;
+  top: 106px;
+  left: 191px;
+  width: 123px;
+  height: 19.56px;
+}
+.groupDiv6,
+.rectangleDiv8 {
+  position: absolute;
+  top: 136px;
+  left: 20px;
+  width: 383px;
+  height: 137px;
+}
+.rectangleDiv8 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-pink);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
+  width: 428px;
+}
+.keranjangB {
+  position: absolute;
+  top: 79px;
+  left: 146px;
+  display: inline-block;
+}
+.vectorIcon {
+  position: absolute;
+  height: 37.15%;
+  width: 56.13%;
+  top: 31.43%;
+  right: 26.67%;
+  bottom: 31.43%;
+  left: 17.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.arrowAltLeft {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 79px;
+  left: 31px;
+  width: 40px;
+  height: 38px;
+}
+.groupDiv8,
+.rectangleDiv9 {
+  position: absolute;
+  height: 137px;
+}
+.groupDiv8 {
+  top: -32px;
+  left: 1px;
+  width: 428px;
+  font-size: var(--font-size-2xl);
+  color: var(--color-black);
+}
+.rectangleDiv9 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-pink);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
+  width: 427px;
+}
+.rp120000B,
+.totalBayarDiv {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  display: inline-block;
+}
+.rp120000B {
+  top: 0;
+  left: 93px;
+  font-size: var(--font-size-xl);
+}
+.groupDiv10,
+.rectangleDiv10 {
+  position: absolute;
+  top: 39px;
+  left: 31px;
+  width: 224px;
+  height: 30px;
+}
+.rectangleDiv10 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 20px;
+  height: 18px;
+}
+.pilihSemuaDiv {
+  position: absolute;
+  top: 0;
+  left: 32px;
+  display: inline-block;
+}
+.groupDiv11 {
+  position: absolute;
+  top: 19px;
+  left: 33px;
+  width: 102px;
+  height: 18px;
+  font-size: var(--font-size-sm);
+}
+.rectangleDiv11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-red-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 118px;
+  height: 62px;
+}
+.checkoutDiv {
+  position: absolute;
+  top: 19px;
+  left: 23px;
+  font-weight: 600;
+  display: inline-block;
+}
+.groupA {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 14px;
+  left: 281px;
+  width: 118px;
+  height: 62px;
+  color: var(--color-white);
+}
+.groupDiv9 {
+  position: absolute;
+  top: 829px;
+  left: 1px;
+  width: 427px;
+  height: 137px;
+  color: var(--color-black);
+}
+.kERANJANGDiv {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  overflow-x: auto;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

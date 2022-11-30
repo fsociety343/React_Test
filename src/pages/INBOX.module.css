@@ -1,0 +1,283 @@
+.groupIcon,
+.rectangleDiv {
+  position: absolute;
+  top: 322px;
+  left: 75px;
+  width: 291px;
+  height: 281px;
+}
+.rectangleDiv {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 396px;
+  height: 114px;
+}
+.ellipseIcon {
+  position: absolute;
+  top: 7px;
+  left: 5px;
+  width: 108px;
+  height: 108px;
+  object-fit: cover;
+}
+.marioGomezB {
+  position: absolute;
+  top: 23px;
+  left: 138px;
+  display: inline-block;
+}
+.ellipseIcon1,
+.groupIcon1 {
+  position: absolute;
+  top: 83px;
+  left: 81px;
+  width: 24px;
+  height: 24px;
+}
+.groupIcon1 {
+  height: 73.75%;
+  width: 7.1%;
+  top: 14.04%;
+  right: 5.02%;
+  bottom: 12.22%;
+  left: 87.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv1 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 396px;
+  height: 114px;
+}
+.doditSaputroB {
+  position: absolute;
+  top: 24px;
+  left: 138px;
+  display: inline-block;
+}
+.groupDiv3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 396px;
+  height: 114px;
+}
+.ellipseIcon3,
+.groupIcon2 {
+  position: absolute;
+  top: 81px;
+  left: 81px;
+  width: 24px;
+  height: 24px;
+}
+.groupIcon2 {
+  height: 73.75%;
+  width: 7.1%;
+  top: 13.16%;
+  right: 5.52%;
+  bottom: 13.09%;
+  left: 87.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv2 {
+  position: absolute;
+  top: 132px;
+  left: 1px;
+  width: 396px;
+  height: 114px;
+}
+.marioGomezB1 {
+  position: absolute;
+  top: 29px;
+  left: 137px;
+  display: inline-block;
+}
+.groupDiv5 {
+  position: absolute;
+  top: 264px;
+  left: 0;
+  width: 396px;
+  height: 114px;
+}
+.apakahMasihAda,
+.doditSaputroB1 {
+  position: absolute;
+  top: 31px;
+  left: 137px;
+  display: inline-block;
+}
+.apakahMasihAda {
+  top: 62px;
+  font-size: var(--font-size-base);
+}
+.groupDiv6 {
+  position: absolute;
+  top: 396px;
+  left: 0;
+  width: 396px;
+  height: 114px;
+}
+.apakahMasihAda1,
+.marioGomezB2 {
+  position: absolute;
+  top: 27px;
+  left: 137px;
+  display: inline-block;
+}
+.apakahMasihAda1 {
+  top: 57px;
+  left: 136px;
+  font-size: var(--font-size-base);
+}
+.ellipseIcon10,
+.groupDiv9 {
+  position: absolute;
+  top: 530px;
+  left: 1px;
+  width: 396px;
+  height: 114px;
+}
+.ellipseIcon10 {
+  top: 7px;
+  left: 5px;
+  width: 108px;
+  height: 100px;
+  object-fit: cover;
+}
+.doditSaputroB2 {
+  position: absolute;
+  top: 17px;
+  left: 139px;
+  display: inline-block;
+}
+.ellipseIcon11 {
+  position: absolute;
+  top: 960px;
+  left: 101px;
+  width: 16px;
+  height: 16px;
+}
+.apakahMasihAda2 {
+  position: absolute;
+  top: 47px;
+  left: 127px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+}
+.groupDiv10 {
+  position: absolute;
+  top: 662px;
+  left: 1px;
+  width: 396px;
+  height: 114px;
+}
+.apakahMasihAda3,
+.apakahMasihAda4,
+.cekInboxMasseh {
+  position: absolute;
+  top: 55px;
+  left: 139px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+}
+.apakahMasihAda3,
+.apakahMasihAda4 {
+  top: 190px;
+}
+.apakahMasihAda4 {
+  top: 324px;
+  left: 138px;
+}
+.groupDiv,
+.groupIcon7 {
+  position: absolute;
+  top: 217px;
+  left: 15px;
+  width: 397px;
+  height: 776px;
+}
+.groupIcon7 {
+  top: 0;
+  left: -4px;
+  width: 406px;
+  height: 68px;
+}
+.cariPesanYangBelumTerbalas {
+  position: absolute;
+  top: 19px;
+  left: 83px;
+  display: inline-block;
+}
+.groupDiv13 {
+  position: absolute;
+  top: 133px;
+  left: 15px;
+  width: 398px;
+  height: 60px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-500);
+}
+.rectangleDiv6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-pink);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
+  width: 428px;
+  height: 137px;
+}
+.kotakMasukB {
+  position: absolute;
+  top: 79px;
+  left: 130px;
+  display: inline-block;
+}
+.vectorIcon {
+  position: absolute;
+  height: 37.15%;
+  width: 56.13%;
+  top: 31.43%;
+  right: 26.67%;
+  bottom: 31.43%;
+  left: 17.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.arrowAltLeft {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 79px;
+  left: 31px;
+  width: 40px;
+  height: 38px;
+}
+.groupDiv14 {
+  position: absolute;
+  top: -32px;
+  left: 1px;
+  width: 428px;
+  height: 137px;
+  font-size: var(--font-size-2xl);
+}
+.iNBOXDiv {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

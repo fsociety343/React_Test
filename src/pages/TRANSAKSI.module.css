@@ -1,0 +1,173 @@
+.groupIcon {
+  position: absolute;
+  top: 322px;
+  left: 75px;
+  width: 291px;
+  height: 281px;
+}
+.rectangleDiv,
+.rectangleDiv1 {
+  position: absolute;
+  top: 123px;
+  left: 20px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-100);
+  width: 388px;
+  height: 699px;
+}
+.rectangleDiv1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-red-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 343px;
+  height: 53px;
+}
+.cetakBuktiTransaksi {
+  position: absolute;
+  top: 12px;
+  left: 60px;
+  display: inline-block;
+}
+.groupDiv {
+  position: absolute;
+  top: 838px;
+  left: 43px;
+  width: 343px;
+  height: 53px;
+  color: var(--color-white);
+}
+.alfamartPayDiv,
+.pembayaranTelahBerhasil {
+  position: absolute;
+  top: 176px;
+  left: 78px;
+  display: inline-block;
+}
+.alfamartPayDiv {
+  top: 222px;
+  left: 0;
+}
+.macbookPro2017,
+.metodePembayaran,
+.totalBiaya {
+  position: absolute;
+  top: 190px;
+  left: 0;
+  display: inline-block;
+}
+.macbookPro2017,
+.totalBiaya {
+  top: 128px;
+}
+.macbookPro2017 {
+  top: 91px;
+}
+.detailOrderB,
+.div,
+.kodeTransaksiB,
+.rp10000000Div {
+  position: absolute;
+  top: 155px;
+  left: 0;
+  display: inline-block;
+}
+.detailOrderB,
+.div,
+.kodeTransaksiB {
+  top: 27px;
+}
+.detailOrderB,
+.kodeTransaksiB {
+  top: 0;
+  left: 2px;
+}
+.detailOrderB {
+  top: 64px;
+  left: 0;
+}
+.groupDiv1 {
+  position: absolute;
+  top: 419px;
+  left: 60px;
+  width: 195px;
+  height: 249px;
+  font-size: var(--font-size-lg);
+}
+.lineDiv,
+.lineDiv1 {
+  position: absolute;
+  top: 381.5px;
+  left: 58.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 305px;
+  height: 1px;
+}
+.lineDiv1 {
+  top: 700.5px;
+}
+.groupIcon1,
+.rectangleDiv2 {
+  position: absolute;
+  top: 243px;
+  left: 165px;
+  width: 97px;
+  height: 92px;
+}
+.rectangleDiv2 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-pink);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
+  width: 428px;
+  height: 137px;
+}
+.transaksiB {
+  position: absolute;
+  top: 79px;
+  left: 151px;
+  display: inline-block;
+}
+.vectorIcon {
+  position: absolute;
+  height: 37.15%;
+  width: 56.13%;
+  top: 31.43%;
+  right: 26.67%;
+  bottom: 31.43%;
+  left: 17.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.arrowAltLeft {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 79px;
+  left: 31px;
+  width: 40px;
+  height: 38px;
+}
+.groupDiv2 {
+  position: absolute;
+  top: -32px;
+  left: 1px;
+  width: 428px;
+  height: 137px;
+  font-size: var(--font-size-2xl);
+}
+.tRANSAKSIDiv {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  overflow-x: auto;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

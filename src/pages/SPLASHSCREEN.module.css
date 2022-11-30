@@ -1,0 +1,64 @@
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(236, 168, 147, 0.5) 84.98%,
+    rgba(217, 217, 217, 0) 85.59%,
+    #ff784e
+  );
+  width: 428px;
+  height: 926px;
+}
+.mUDAHMURAHMANTAPLAH {
+  top: 495px;
+  left: 113px;
+  font-weight: 300;
+}
+.mUDAHMURAHMANTAPLAH,
+.uDBSHOPDiv,
+.version101Div {
+  position: absolute;
+  display: inline-block;
+}
+.version101Div {
+  top: 841px;
+  left: 159px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--color-white);
+}
+.uDBSHOPDiv {
+  top: 0;
+  left: 45px;
+  font-weight: 800;
+  text-shadow: 0 10px 5px rgba(0, 0, 0, 0.25);
+}
+.groupDiv,
+.shopIcon {
+  position: absolute;
+  top: 7px;
+  left: 0;
+  width: 45px;
+  height: 58.08px;
+}
+.groupDiv {
+  top: 421px;
+  left: 77px;
+  width: 275px;
+  height: 68px;
+  font-size: var(--font-size-4xl);
+}
+.sPLASHSCREENDiv {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+  font-family: var(--font-poppins);
+}

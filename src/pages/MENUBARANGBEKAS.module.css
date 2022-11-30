@@ -1,0 +1,437 @@
+.rectangleDiv,
+.rectangleIcon {
+  position: absolute;
+  top: 188px;
+  border-radius: var(--br-md);
+}
+.rectangleDiv {
+  left: 229px;
+  background-color: var(--color-gray-100);
+  width: 184px;
+  height: 182px;
+}
+.rectangleIcon {
+  left: 223px;
+  width: 195px;
+  height: 121px;
+  object-fit: cover;
+}
+.rectangleDiv1,
+.rectangleIcon1 {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-md);
+}
+.rectangleDiv1 {
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 184px;
+  height: 182px;
+}
+.rectangleIcon1 {
+  left: -4px;
+  width: 192px;
+  height: 116px;
+  object-fit: cover;
+}
+.groupDiv,
+.groupDiv1 {
+  position: absolute;
+  top: 386px;
+  left: 229px;
+  width: 184px;
+  height: 182px;
+}
+.groupDiv1 {
+  top: 589px;
+  left: 228px;
+}
+.hoddieHMHitamBasic {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+}
+.rp120000B,
+.terjual5Div {
+  position: absolute;
+  top: 18px;
+  left: 2px;
+  display: inline-block;
+}
+.terjual5Div {
+  top: 0;
+  left: 14px;
+  font-weight: 300;
+}
+.iconStar {
+  position: absolute;
+  height: 75%;
+  width: 15.71%;
+  top: 8.33%;
+  right: 84.29%;
+  bottom: 16.67%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv3 {
+  position: absolute;
+  top: 38px;
+  left: 2px;
+  width: 70px;
+  height: 12px;
+  font-size: var(--font-size-xs);
+}
+.groupDiv2,
+.groupDiv4,
+.groupDiv6 {
+  position: absolute;
+  top: 307px;
+  left: 245px;
+  width: 156px;
+  height: 50px;
+}
+.groupDiv4,
+.groupDiv6 {
+  top: 503px;
+  left: 250px;
+}
+.groupDiv6 {
+  top: 706px;
+  left: 247px;
+}
+.rp10000000B,
+.terjual5Div3 {
+  position: absolute;
+  top: 17px;
+  left: 1px;
+  display: inline-block;
+}
+.terjual5Div3 {
+  top: 38px;
+  left: 16px;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+}
+.vectorIcon {
+  position: absolute;
+  height: 18%;
+  width: 10.48%;
+  top: 1890%;
+  right: 56.19%;
+  bottom: -1808%;
+  left: 33.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv9 {
+  position: absolute;
+  top: 116px;
+  left: 20px;
+  width: 105px;
+  height: 50px;
+}
+.groupDiv8,
+.vectorIcon1 {
+  position: absolute;
+  top: 790px;
+  left: 14px;
+  width: 184px;
+  height: 182px;
+}
+.vectorIcon1 {
+  height: 18%;
+  width: 10.48%;
+  top: 78%;
+  right: 87.62%;
+  bottom: 4%;
+  left: 1.9%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv11 {
+  position: absolute;
+  top: 114px;
+  left: 22px;
+  width: 105px;
+  height: 50px;
+}
+.groupDiv10,
+.groupDiv13 {
+  position: absolute;
+  top: 588px;
+  left: 12px;
+  width: 184px;
+  height: 182px;
+}
+.groupDiv13 {
+  top: 117px;
+  left: 17px;
+  width: 105px;
+  height: 50px;
+}
+.groupDiv12,
+.rectangleDiv6 {
+  position: absolute;
+  top: 388px;
+  left: 12px;
+  width: 184px;
+  height: 182px;
+}
+.rectangleDiv6 {
+  top: 0;
+  left: 1px;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-100);
+}
+.macbookPro20173 {
+  position: absolute;
+  top: 121px;
+  left: 21px;
+  font-weight: 300;
+  display: inline-block;
+}
+.rp10000000B3,
+.terjual5Div6 {
+  position: absolute;
+  top: 138px;
+  left: 22px;
+  display: inline-block;
+}
+.terjual5Div6 {
+  top: 159px;
+  left: 37px;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+}
+.iconStar4 {
+  position: absolute;
+  height: 4.95%;
+  width: 5.95%;
+  top: 87.91%;
+  right: 81.62%;
+  bottom: 7.14%;
+  left: 12.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleIcon6 {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-md);
+  width: 192px;
+  height: 124px;
+  object-fit: cover;
+}
+.groupA {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 188px;
+  left: 13px;
+  width: 185px;
+  height: 182px;
+  color: inherit;
+}
+.rectangleIcon7 {
+  position: absolute;
+  top: 1px;
+  left: -4px;
+  border-radius: var(--br-md);
+  width: 192px;
+  height: 116px;
+  object-fit: cover;
+}
+.groupDiv15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 184px;
+  height: 182px;
+}
+.groupDiv14,
+.groupDiv16 {
+  position: absolute;
+  top: 123px;
+  left: 12px;
+  width: 156px;
+  height: 50px;
+}
+.groupDiv14 {
+  top: 790px;
+  left: 230px;
+  width: 184px;
+  height: 182px;
+}
+.ellipseIcon,
+.iconBasket {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  width: 71px;
+  height: 68px;
+}
+.iconBasket {
+  height: 77.05%;
+  width: 76.92%;
+  top: 19.05%;
+  right: 11.97%;
+  bottom: 3.9%;
+  left: 11.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupA1 {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 742px;
+  left: 349px;
+  width: 63px;
+  height: 60px;
+}
+.groupIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 291px;
+  height: 281px;
+}
+.iconOption {
+  position: relative;
+  width: 27.89px;
+  height: 26.35px;
+  flex-shrink: 0;
+}
+.filterDiv {
+  position: relative;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+.frameDiv1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow-y: auto;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-md);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.groupDiv18 {
+  position: relative;
+  width: 117.89px;
+  height: 33px;
+  flex-shrink: 0;
+}
+.frameDiv2,
+.rectangleDiv8 {
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.frameDiv2 {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-lg);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangleDiv8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 145px;
+  height: 34px;
+}
+.bebasOngkirDiv {
+  position: absolute;
+  top: 4px;
+  left: 8.89px;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+.groupDiv19 {
+  position: relative;
+  width: 145px;
+  height: 34px;
+  flex-shrink: 0;
+}
+.frameDiv {
+  position: absolute;
+  top: 128px;
+  left: 15px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow-x: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+  font-size: var(--font-size-lg);
+}
+.rectangleDiv9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-pink);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
+  border: 0.1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 428px;
+  height: 71px;
+}
+.mauCariBarangBekasApa {
+  position: absolute;
+  top: 22px;
+  left: 104px;
+  display: inline-block;
+}
+.iconSearchOutline {
+  position: absolute;
+  height: 68.53%;
+  width: 10.98%;
+  top: 15.49%;
+  right: 81.78%;
+  bottom: 15.98%;
+  left: 7.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv20 {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  width: 428px;
+  height: 71px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-400);
+}
+.mENUBARANGBEKAS {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

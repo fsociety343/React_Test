@@ -1,0 +1,164 @@
+.rectangleDiv {
+  position: absolute;
+  top: -11px;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-pink);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
+  width: 428px;
+  height: 137px;
+}
+.buttonBackIcon,
+.groupA {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 39px;
+  height: 39px;
+}
+.groupA {
+  cursor: pointer;
+  text-decoration: none;
+  top: 49px;
+  left: 18px;
+}
+.alfamartB,
+.silahkanLakukanPembayaran {
+  position: absolute;
+  letter-spacing: 0.03em;
+  line-height: 25px;
+  display: inline-block;
+}
+.alfamartB {
+  top: 47px;
+  left: 167px;
+  font-size: var(--font-size-2xl);
+}
+.silahkanLakukanPembayaran {
+  top: 0;
+  left: 0;
+}
+.groupDiv {
+  position: absolute;
+  top: 82px;
+  left: 83px;
+  width: 289px;
+  height: 25px;
+}
+.iconBarcode {
+  height: 68.84%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 31.16%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div,
+.groupDiv1,
+.iconBarcode {
+  position: absolute;
+}
+.div {
+  top: 108px;
+  left: 1px;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+.groupDiv1 {
+  height: 14.9%;
+  width: 53.97%;
+  top: 33.69%;
+  right: 23.13%;
+  bottom: 51.4%;
+  left: 22.9%;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+}
+.rp10000000B,
+.totalB {
+  position: absolute;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+}
+.rp10000000B {
+  top: 207px;
+  left: 104px;
+  color: var(--color-red-100);
+}
+.totalB {
+  top: 155px;
+  left: 171px;
+  letter-spacing: 0.05em;
+}
+.lineIcon,
+.lineIcon1 {
+  position: absolute;
+  top: 280px;
+  left: 31px;
+  width: 367px;
+  height: 1.99px;
+}
+.lineIcon1 {
+  top: 468px;
+}
+.berlakuHingga23Oktober20221 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.span {
+  color: var(--color-red-100);
+}
+.sampaiDenganPukul2259 {
+  margin: 0;
+}
+.berlakuHingga23Oktober2022 {
+  position: absolute;
+  top: 514px;
+  left: -6px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  display: inline-block;
+  width: 434px;
+}
+.rectangleDiv1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-red-100);
+  width: 277px;
+  height: 67px;
+}
+.cetakBarcode {
+  position: absolute;
+  top: 19px;
+  left: 62px;
+  display: inline-block;
+}
+.groupA1 {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 649px;
+  left: 76px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 277px;
+  height: 67px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.pEMBAYARANDiv {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
